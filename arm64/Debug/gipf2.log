@@ -1,0 +1,35 @@
+﻿  Source3.cpp
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,66): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,161): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,66): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,72): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,72): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,78): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,78): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,84): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,84): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,90): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,90): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,96): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,96): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,102): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,102): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,108): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,108): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,114): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,114): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,120): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,120): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,126): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,126): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,132): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,132): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,138): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,138): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,144): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,144): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,150): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,150): warning C4309: 'initializing': truncation of constant value
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,156): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\olgagranecka\source\repos\gipf2\Source3.cpp(36,156): warning C4309: 'initializing': truncation of constant value
+  gipf2.vcxproj -> C:\Users\olgagranecka\source\repos\gipf2\arm64\Debug\gipf2.exe
